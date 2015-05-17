@@ -2,4 +2,4 @@
 System.out.println("Hello World with Java!");
 
 //or you can use Groovy syntax
-println("Hello World Groovy!")
+println("Hello World with Groovy!")
