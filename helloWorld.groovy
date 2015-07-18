@@ -2,4 +2,4 @@
 System.out.println("Hello World with Java!");
 
 //or you can use Groovy syntax
-println "Hello Video Viewers!"
+println "Hello World!"
