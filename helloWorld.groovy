@@ -1,2 +1,2 @@
-// or have it speak messages
+// Have BowlerStudio speak messages
 BowlerKernel.speak("Welcome to Bowler Studio")
